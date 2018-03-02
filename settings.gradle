@@ -1,1 +1,1 @@
-include ':library'
+include ':base-arch-lib'
