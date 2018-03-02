@@ -1,0 +1,3 @@
+[submodule "base-arch-lib"]
+	path = base-arch-lib
+	url = https://github.com/alexandregpereira/base-arch-lib.git
